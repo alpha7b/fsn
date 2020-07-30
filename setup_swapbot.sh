@@ -20,3 +20,6 @@ sudo npm i
 
 # start bot
 sudo npm run start
+
+# monitor bot
+sudo pm2 log
