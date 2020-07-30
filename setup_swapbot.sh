@@ -2,7 +2,7 @@
 
 # install node & pm2
 sudo apt update
-curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 sudo apt install nodejs -y
 sudo npm i -g pm2
 
