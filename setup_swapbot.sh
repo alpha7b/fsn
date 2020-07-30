@@ -19,4 +19,4 @@ sed -i "s/your private key/$priKey/g" config.js
 sudo npm i
 
 # start bot
-sudo nmp run start
+sudo npm run start
