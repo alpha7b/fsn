@@ -7,10 +7,10 @@ sudo apt install nodejs -y
 sudo npm i -g pm2
 
 # download swapbot code
-git clone https://github.com/fusionfans/swapbot.git
+git clone https://github.com/open4baas/any-trading-mining-bot.git
 
 # config bot
-cd swapbot
+cd any-trading-mining-bot
 cp config.sample.js config.js
 
 read -p "Please paste your private key: " priKey
